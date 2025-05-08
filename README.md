@@ -20,7 +20,7 @@ Exploration of Level Set Methods
 1. Sethian, J. A. Level Set Methods and Fast Marching Methods: Evolving Interfaces in Computational Geometry, Fluid Mechanics, Computer Vision, and Materials Sciences. (Cambridge Univ. Press, Cambridge, 2010).
 2. Osher, S. & Fedkiw, R. Level Set Methods and Dynamic Implicit Surfaces. vol. 153 (Springer New York, New York, NY, 2003).
 
-# Useful resources
+# Useful Resources
 1. https://www.cs.ubc.ca/~mitchell/ToolboxLS/
 2. https://github.com/z4ir3/level-set
 3. https://github.com/JesseLu/level-set
